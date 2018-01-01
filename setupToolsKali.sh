@@ -138,6 +138,9 @@ printf "${Green}Veil${NC}"
 git clone https://github.com/Veil-Framework/Veil /opt/Veil
 cd /opt/Veil && ./Install.sh -c
 
+printf "${Green}metagoofil${NC}"
+git clone https://github.com/laramies/metagoofil /opt/metagoofil
+
 printf "${Red}Finishing Up!${NC}"
 
 
